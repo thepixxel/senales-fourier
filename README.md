@@ -53,7 +53,3 @@ Las gráficas se guardan en la carpeta `figuras/` y los resultados numéricos
 | 3 | Transformada de Fourier de cada señal |
 | 4 | Verificación de propiedades |
 | 5 | Aplicación real: modulación AM |
-
-## Referencia
-
-Kamen, E., & Heck, B. (2008). *Fundamentos de señales y sistemas*. Pearson.
